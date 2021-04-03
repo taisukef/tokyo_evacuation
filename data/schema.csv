@@ -1,0 +1,5 @@
+﻿prefix,url
+ic,http://imi.go.jp/ns/core/rdf#
+schema,http://schema.org/
+odp,http://odp.jig.jp/odp/1.0#
+sabae,https://rdf.sabae.cc/#

@@ -1,0 +1,18 @@
+[
+  {
+    "prefix": "ic",
+    "url": "http://imi.go.jp/ns/core/rdf#"
+  },
+  {
+    "prefix": "schema",
+    "url": "http://schema.org/"
+  },
+  {
+    "prefix": "odp",
+    "url": "http://odp.jig.jp/odp/1.0#"
+  },
+  {
+    "prefix": "sabae",
+    "url": "https://rdf.sabae.cc/#"
+  }
+]
